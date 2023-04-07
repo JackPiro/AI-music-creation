@@ -1,0 +1,35 @@
+note_on, 0, B3, 60, 0
+note_off, 0, B3, 64, 180
+note_on, 0, D#4, 64, 30
+note_off, 0, D#4, 64, 180
+note_on, 0, F#4, 65, 0
+note_off, 0, F#4, 64, 180
+note_on, 0, B4, 70, 30
+note_off, 0, B4, 64, 210
+
+note_on, 0, D#4, 60, 0
+note_off, 0, D#4, 64, 120
+note_on, 0, G#4, 64, 60
+note_off, 0, G#4, 64, 180
+note_on, 0, B4, 65, 0
+note_off, 0, B4, 64, 210
+note_on, 0, D#5, 70, 30
+note_off, 0, D#5, 64, 150
+
+note_on, 0, F#4, 60, 0
+note_off, 0, F#4, 64, 180
+note_on, 0, A#4, 64, 30
+note_off, 0, A#4, 64, 150
+note_on, 0, D#5, 65, 0
+note_off, 0, D#5, 64, 210
+note_on, 0, F#5, 70, 30
+note_off, 0, F#5, 64, 180
+
+note_on, 0, B3, 60, 0
+note_off, 0, B3, 64, 150
+note_on, 0, D#4, 64, 30
+note_off, 0, D#4, 64, 120
+note_on, 0, F#4, 65, 0
+note_off, 0, F#4, 64, 210
+note_on, 0, B4, 70, 30
+note_off, 0, B4, 64, 180
